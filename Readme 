@@ -1,0 +1,9 @@
+How to run the project 
+
+1) First make a virtual enviroment to run the project using python
+
+2) Install all the modules in requirement.txt
+
+3) In extracode folder code for generating the "Targettext.txt" from "target.jpg" is placed and also code for imageGeneration from cypher text is also there
+
+4) In code folder all the main codes are there run the test.py (Note : all the cipher algo should be in same level of test.py before execution also same for Targettext.txt)
